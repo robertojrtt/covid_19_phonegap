@@ -1,0 +1,22 @@
+{
+    "name": "covid-api",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon ./server.js"
+    },
+    "author": "roberto",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.19.0",
+        "dotenv": "^8.1.0",
+        "restify": "^8.4.0",
+        "restify-cors-middleware": "^1.1.1",
+        "restify-errors": "^8.0.1"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.3"
+    }
+}
