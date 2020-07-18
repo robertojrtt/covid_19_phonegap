@@ -2,7 +2,7 @@
 
 Aplicativo para mostrar dados da COVID-19 pelo mundo e Brasil utilizando phonegap
 
-![home_app](https://gitlab.com/roberto.teixeira.rs2/covid_19_phonegap/-/blob/master/_iPhone_6_7_8___1_.png)
+![home_app](https://github.com/robertojrtt/covid_19_phonegap/blob/master/_iPhone_6_7_8___1_.png)
 
 ### Installing
 
